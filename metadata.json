@@ -1,8 +1,5 @@
 {
-  "name": "Copy of Iqra Class - Educational Excellence",
+  "name": "Iqra Class - Educational Excellence",
   "description": "A comprehensive educational platform for students from Nursery to 8th Standard, featuring interactive learning and modern teaching methodologies.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ]
+  "requestFramePermissions": []
 }
